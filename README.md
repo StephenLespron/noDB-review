@@ -36,5 +36,5 @@
         -Pokemon.js (stateful: this.state.name, this.state.editing)
     
 ### Wireframe
-<img src="./Captures/Capture.PNG>"/>
-<img src="./Captures/Capture2.PNG>"/>
+<img src="./Captures/Capture.PNG>">
+<img src="./Captures/Capture2.PNG>">
